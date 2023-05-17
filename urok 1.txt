@@ -1,0 +1,16 @@
+0 /home/animals
+   1 /home/animals/dogs
+   2 /home/animals/cats
+   3 /home/animals/fish
+   4 /home/animals/dogs/pluto
+   5 /home/animals/fish/nemo
+   6 /home/animals/cats/garfield
+   7 /tmp/adam
+   8 -p /home/humans
+   9 /tmp/adam /home/humans
+  10 /tmp/evA
+  11 /tmp/evA /opt/eve
+  12 /opt/eve /home/humans/eve
+  13 /home/humans
+  14 cd
+  15 history
